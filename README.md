@@ -11,8 +11,7 @@ Em vez de programar todas as regras manualmente, a máquina analisa exemplos, ap
 
 ---
 
-##  Explique o conceito de conjunto de treinamento, conjunto de validação e 
-conjunto de teste em machine learning.
+##  Explique o conceito de conjunto de treinamento, conjunto de validação e conjunto de teste em machine learning.
 
 Em machine learning, os dados costumam ser divididos em três partes:
 
@@ -41,8 +40,7 @@ O objetivo é evitar que a falta de dados prejudique o aprendizado do modelo.
 
 ---
 
-## O que é uma matriz de confusão e como ela é usada para avaliar o 
-desempenho de um modelo preditivo?
+## O que é uma matriz de confusão e como ela é usada para avaliar o desempenho de um modelo preditivo?
 
 A matriz de confusão é uma tabela usada para **avaliar modelos de classificação**.
 
@@ -57,9 +55,7 @@ Com esses dados, é possível entender onde o modelo acerta e onde erra, ajudand
 
 ---
 
-##  Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, 
-entre outras) você acha mais interessante aplicar algoritmos de machine 
-learning?
+##  Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, entre outras) você acha mais interessante aplicar algoritmos de machine learning?
 
 Uma das áreas mais interessantes para aplicar machine learning é a **saúde**.
 
