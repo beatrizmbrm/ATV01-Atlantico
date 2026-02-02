@@ -30,8 +30,7 @@ Em machine learning, os dados costumam ser divididos em três partes:
 
 ---
 
-## Explique como você lidaria com dados ausentes em um conjunto de dados 
-de treinamento
+## Explique como você lidaria com dados ausentes em um conjunto de dados de treinamento
 
 Quando existem dados faltando em um conjunto de treinamento, algumas soluções podem ser usadas:
 
